@@ -1,0 +1,1 @@
+'w' removes the old data and then add new data.'a' add the new data after old data.
